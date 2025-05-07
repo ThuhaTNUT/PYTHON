@@ -1,0 +1,3 @@
+to:hienhua492@gmail.com
+subject:BAI THUC HANH 1 - GUI EMAIL TU DONG BANG PYTHON
+message:Gui email tu dong bang python
